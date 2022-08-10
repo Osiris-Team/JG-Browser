@@ -21,7 +21,7 @@ For one person alone that would take decades, that's why this project is
 designed in a modular way, so that everyone can add the functionality that he/she needs.
 See [how-to-implement-a-js-web-api.md](how-to-implement-a-js-web-api.md) for details.
 
-In short, this browser will fail executing most of the JavaScript code that relies on Web-APIs
+In short, in its current state, this browser will fail executing most of the JavaScript code that relies on Web-APIs
 at the moment.
 
 ### Links
