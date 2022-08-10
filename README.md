@@ -34,8 +34,10 @@ if you want something production ready.
 - Click on 'Watch' -> 'Custom' -> and tick the 'Releases' box to get notified of future releases
 
 ### Motivation
-HtmlUnit is good, but relies on another JavaScript engine with a lot less features. Thus,
-this project exists.
+[HtmlUnit](https://github.com/HtmlUnit/htmlunit/) is good, but relies on another JavaScript
+engine with a lot less features that gets updated very rarely. Thus,
+this project exists. More details [here](https://github.com/HtmlUnit/htmlunit/issues/201), where I tried
+implementing GraalJS into HtmlUnit without success.
 
 ### Features
 - Latest JavaScript support via GraalJS 
